@@ -1,0 +1,49 @@
+body{
+    background-image: url(images/background.jpg);
+    background-size: 1950px 950px ;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+}
+.first{
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 600px;
+    border: solid 2px purple;
+    border-radius: 25px;
+    padding-top:25px;
+}
+.secound{
+    background-color: purple;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+button{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    padding: 5px 20px;
+}
+.icon{
+    width: 50px;
+    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.dank{
+    text-decoration: none;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.dank:hover{
+    color: yellow;
+    text-decoration: underline;
+}
+.main{
+    width: 400px;
+    padding-bottom: 30px;
+}
+hr{
+    width: 300px;
+}
